@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-MuMuKow
 
 Running at: <https://jpa03-mumukow.dokku-10.cs.ucsb.edu/>
 
